@@ -1,2 +1,5 @@
-kidney_diesel/.env
-kidney_diesel/Cargo.lock
+.lock
+/target
+/migrations
+.env
+Cargo.lock
